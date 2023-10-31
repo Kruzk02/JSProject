@@ -1,2 +1,2 @@
 # JSProject
-  JSProject is a list of JavaScript project
+  This project is a Javascript component separate and build each one and other project like snake game.
